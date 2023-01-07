@@ -1,0 +1,32 @@
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\bin\Debug\PrjRental.exe
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\bin\Debug\PrjRental.pdb
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\bin\Debug\PrjRental.xml
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmpelanggan.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.Resources.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.vbproj.GenerateResource.Cache
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.exe
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.xml
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.pdb
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmuser.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmkategori.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmtype.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmvcd.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.login.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\bin\Debug\PrjRental.exe.config
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmmenu.resources
+D:\Documents\Pictures\PrjRental\PrjRental\bin\Debug\PrjRental.exe.config
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.exe
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.xml
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.pdb
+D:\Documents\Pictures\PrjRental\PrjRental\bin\Debug\PrjRental.exe
+D:\Documents\Pictures\PrjRental\PrjRental\bin\Debug\PrjRental.pdb
+D:\Documents\Pictures\PrjRental\PrjRental\bin\Debug\PrjRental.xml
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmkategori.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmpelanggan.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmtype.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmuser.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmvcd.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.login.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.frmmenu.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.Resources.resources
+D:\Documents\Pictures\PrjRental\PrjRental\obj\x86\Debug\PrjRental.vbproj.GenerateResource.Cache
